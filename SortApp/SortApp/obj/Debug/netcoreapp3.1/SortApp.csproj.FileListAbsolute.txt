@@ -1,0 +1,11 @@
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.exe
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.deps.json
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.runtimeconfig.json
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.runtimeconfig.dev.json
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.dll
+D:\NET Develop\Git\Sort\SortApp\SortApp\bin\Debug\netcoreapp3.1\SortApp.pdb
+D:\NET Develop\Git\Sort\SortApp\SortApp\obj\Debug\netcoreapp3.1\SortApp.csprojAssemblyReference.cache
+D:\NET Develop\Git\Sort\SortApp\SortApp\obj\Debug\netcoreapp3.1\SortApp.AssemblyInfoInputs.cache
+D:\NET Develop\Git\Sort\SortApp\SortApp\obj\Debug\netcoreapp3.1\SortApp.AssemblyInfo.cs
+D:\NET Develop\Git\Sort\SortApp\SortApp\obj\Debug\netcoreapp3.1\SortApp.dll
+D:\NET Develop\Git\Sort\SortApp\SortApp\obj\Debug\netcoreapp3.1\SortApp.pdb
