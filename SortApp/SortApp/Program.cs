@@ -7,7 +7,7 @@ namespace SortApp
         static void Main(string[] args)
         {
             int[] array = { 1, 3, 5, 6, 2 };
-            SelectionSort(array);
+            InsertSort(array);
             foreach (var i in array)
             {
                 Console.Write(i + " ");
@@ -52,6 +52,24 @@ namespace SortApp
                 temp = intArray[min];
                 intArray[min] = intArray[i];
                 intArray[i] = temp;
+            }
+        }
+
+        static void InsertSort(int[] intArray)
+        {
+            for (int i = 1; i < intArray.Length; i++)
+            {
+                int temp = intArray[i];
+                for (int j = i - 1; j >= 0; j--)
+                {
+                    if (intArray[j] > temp)
+                    {
+                        intArray[j + 1] = intArray[j];
+                        intArray[j] = temp;
+                    }
+                    else
+                        break;
+                }
             }
         }
     }
